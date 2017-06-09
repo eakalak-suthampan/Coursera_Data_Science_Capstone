@@ -32,8 +32,9 @@ shinyUI(fluidPage(
     mainPanel(
         h3("For more detail, please see the presentation"),
         a(
-                href = "https://archive.ics.uci.edu/ml/datasets/Wine",
-                "https://archive.ics.uci.edu/ml/datasets/Wine",
+                href = "http://rpubs.com/suteak/283308"
+                ,
+                "http://rpubs.com/suteak/283308",
                 target = "_blank"
         )
     )
