@@ -2,7 +2,10 @@ Coursera Data Science Capstone: The Next Word Prediction App
 ========================================================
 author: Eakalak Suthampan
 date: 8 June 2017
-autosize: true
+
+This capstone is a final project of [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)
+
+[My other projects for this course](http://rpubs.com/suteak)
 
 Introduction
 ========================================================
